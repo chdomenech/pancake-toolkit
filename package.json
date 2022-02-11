@@ -2,7 +2,7 @@
   "name": "pancake-toolkit",
   "version": "1.0.0",
   "description": "TOVASwap frontend packages",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*"
   ],

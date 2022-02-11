@@ -6,29 +6,17 @@ export const footerLinks: FooterLinkType[] = [
     label: "About",
     items: [
       {
-        label: "Contact",
-        href: "https://docs.pancakeswap.finance/contact-us",
-      },
-      {
         label: "Blog",
-        href: "https://pancakeswap.medium.com/",
+        href: 'https://medium.com/@tovafinance',
       },
       {
         label: "Community",
         href: "https://docs.pancakeswap.finance/contact-us/telegram",
       },
       {
-        label: "CAKE",
-        href: "https://docs.pancakeswap.finance/tokenomics/cake",
-      },
-      {
-        label: "—",
-      },
-      {
-        label: "Online Store",
-        href: "https://pancakeswap.creator-spring.com/",
-        isHighlighted: true,
-      },
+        label: "TVS",
+        href: 'https://docs.tovaswap.com/tokenomics/tvs',
+      }
     ],
   },
   {
@@ -36,15 +24,15 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Customer",
-        href: "Support https://docs.pancakeswap.finance/contact-us/customer-support",
+        href: 'https://docs.tovaswap.com/contact-us/customer-support',
       },
       {
         label: "Troubleshooting",
-        href: "https://docs.pancakeswap.finance/help/troubleshooting",
+        href: 'https://docs.tovaswap.com/help/troubleshooting',
       },
       {
         label: "Guides",
-        href: "https://docs.pancakeswap.finance/get-started",
+        href: 'https://docs.tovaswap.com/get-started',
       },
     ],
   },
@@ -53,11 +41,11 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/pancakeswap",
+        href: 'https://github.com/TOVAFinance',
       },
       {
         label: "Documentation",
-        href: "https://docs.pancakeswap.finance",
+        href: 'https://docs.tovaswap.com',
       },
       {
         label: "Bug Bounty",
@@ -65,12 +53,8 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Audits",
-        href: "https://docs.pancakeswap.finance/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited",
-      },
-      {
-        label: "Careers",
-        href: "https://docs.pancakeswap.finance/hiring/become-a-chef",
-      },
+        href: 'https://docs.tovswap.com/help/faq#is-tovaswap-safe-has-tovaswap-been-audited',
+      }
     ],
   },
 ];
@@ -79,93 +63,27 @@ export const socials = [
   {
     label: "Twitter",
     icon: "Twitter",
-    href: "https://twitter.com/pancakeswap",
+    href: "https://twitter.com/TOVAFinance",
   },
   {
     label: "Telegram",
     icon: "Telegram",
     items: [
       {
-        label: "English",
-        href: "https://t.me/pancakeswap",
-      },
-      {
-        label: "Bahasa Indonesia",
-        href: "https://t.me/PancakeSwapIndonesia",
-      },
-      {
-        label: "中文",
-        href: "https://t.me/PancakeSwap_CN",
-      },
-      {
-        label: "Tiếng Việt",
-        href: "https://t.me/PancakeSwapVN",
-      },
-      {
-        label: "Italiano",
-        href: "https://t.me/pancakeswap_ita",
-      },
-      {
-        label: "русский",
-        href: "https://t.me/pancakeswap_ru",
-      },
-      {
-        label: "Türkiye",
-        href: "https://t.me/pancakeswapturkiye",
-      },
-      {
-        label: "Português",
-        href: "https://t.me/PancakeSwapPortuguese",
-      },
-      {
         label: "Español",
-        href: "https://t.me/PancakeswapEs",
-      },
-      {
-        label: "日本語",
-        href: "https://t.me/pancakeswapjp",
-      },
-      {
-        label: "Français",
-        href: "https://t.me/pancakeswapfr",
-      },
-      {
-        label: "Datch",
-        href: "https://t.me/PancakeSwap_DE",
-      },
-      {
-        label: "Filipino",
-        href: "https://t.me/Pancakeswap_Ph",
-      },
-      {
-        label: "ქართული ენა",
-        href: "https://t.me/PancakeSwapGeorgia",
-      },
-      {
-        label: "Announcements",
-        href: "https://t.me/PancakeSwapAnn",
-      },
+        href: "https://t.me/TOVAFinance",
+      }
     ],
   },
   {
     label: "Reddit",
     icon: "Reddit",
-    href: "https://reddit.com/r/pancakeswap",
-  },
-  {
-    label: "Instagram",
-    icon: "Instagram",
-    href: "https://instagram.com/pancakeswap_official",
+    href: "https://www.reddit.com/user/tovafinance",
   },
   {
     label: "Github",
     icon: "Github",
-    href: "https://github.com/pancakeswap/",
-  },
-  {
-    label: "Discord",
-    icon: "Discord",
-    href: "https://discord.gg/pancakeswap",
+    href: "https://github.com/TOVAFinance/",
   },
 ];
 
