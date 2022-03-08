@@ -11,7 +11,7 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Community",
-        href: "https://docs.pancakeswap.finance/contact-us/telegram",
+        href: "https://docs.tovaswap.com/contact-us/telegram",
       },
       {
         label: "TVS",
@@ -71,7 +71,7 @@ export const socials = [
     items: [
       {
         label: "Español",
-        href: "https://t.me/TOVAFinance",
+        href: "https://t.me/tokenvalues",
       }
     ],
   },
