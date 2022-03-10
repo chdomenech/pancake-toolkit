@@ -11,7 +11,7 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Community",
-        href: "https://docs.tovaswap.com/contact-us/telegram",
+        href: 'https://docs.tovaswap.com/contact-us/telegram',
       },
       {
         label: "TVS",
@@ -46,10 +46,6 @@ export const footerLinks: FooterLinkType[] = [
       {
         label: "Documentation",
         href: 'https://docs.tovaswap.com',
-      },
-      {
-        label: "Bug Bounty",
-        href: "https://app.gitbook.com/@pancakeswap-1/s/pancakeswap/code/bug-bounty",
       },
       {
         label: "Audits",
