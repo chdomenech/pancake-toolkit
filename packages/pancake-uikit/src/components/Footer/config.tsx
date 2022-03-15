@@ -11,11 +11,11 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Community",
-        href: 'https://docs.tovaswap.com/contact-us/telegram',
+        href: 'https://info.tovaswap.com/contact-us/telegram',
       },
       {
         label: "TVS",
-        href: 'https://docs.tovaswap.com/tokenomics/tvs',
+        href: 'https://info.tovaswap.com/tokenomics/tvs',
       }
     ],
   },
@@ -24,15 +24,15 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Customer",
-        href: 'https://docs.tovaswap.com/contact-us/customer-support',
+        href: 'https://info.tovaswap.com/contact-us/customer-support',
       },
       {
         label: "Troubleshooting",
-        href: 'https://docs.tovaswap.com/help/troubleshooting',
+        href: 'https://info.tovaswap.com/help/troubleshooting',
       },
       {
         label: "Guides",
-        href: 'https://docs.tovaswap.com/get-started',
+        href: 'https://info.tovaswap.com/get-started',
       },
     ],
   },
@@ -45,11 +45,11 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Documentation",
-        href: 'https://docs.tovaswap.com',
+        href: 'https://info.tovaswap.com',
       },
       {
         label: "Audits",
-        href: 'https://docs.tovswap.com/help/faq#is-tovaswap-safe-has-tovaswap-been-audited',
+        href: 'https://info.tovswap.com/help/faq#is-tovaswap-safe-has-tovaswap-been-audited',
       }
     ],
   },
