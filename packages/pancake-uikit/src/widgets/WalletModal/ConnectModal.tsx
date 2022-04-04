@@ -80,7 +80,7 @@ const ConnectModal: React.FC<Props> = ({ login, onDismiss = () => null, displayC
           </Text>
           <Button
             as="a"
-            href="https://info.tovaswap.com/get-started/connection-guide"
+            href="https://info.tovaswap.com/presentacion/primeros-pasos-en-tovaswap/conectarse-a-tovaswap"
             variant="subtle"
             width="100%"
             {...getExternalLinkProps()}
