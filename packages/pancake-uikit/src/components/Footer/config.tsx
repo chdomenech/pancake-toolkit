@@ -7,7 +7,7 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Blog",
-        href: 'https://medium.com/@tovafinance',
+        href: 'https://medium.com/@tovaswap',
       },
       {
         label: "Community",
@@ -41,7 +41,7 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Github",
-        href: 'https://github.com/TOVAFinance',
+        href: 'https://github.com/tovaswap1',
       },
       {
         label: "Documentation",
@@ -59,7 +59,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "Twitter",
-    href: "https://twitter.com/TOVAFinance",
+    href: "https://twitter.com/tovaswap",
   },
   {
     label: "Telegram",
@@ -67,19 +67,19 @@ export const socials = [
     items: [
       {
         label: "Español",
-        href: "https://t.me/tokenvalues",
+        href: "https://t.me/tovaswap",
       }
     ],
   },
   {
     label: "Reddit",
     icon: "Reddit",
-    href: "https://www.reddit.com/user/tovafinance",
+    href: "https://www.reddit.com/user/tovaswap",
   },
   {
     label: "Github",
     icon: "Github",
-    href: "https://github.com/TOVAFinance/",
+    href: "https://github.com/tovaswap1",
   },
 ];
 
